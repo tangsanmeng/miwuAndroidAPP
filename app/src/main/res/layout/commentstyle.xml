@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_marginStart="10sp"
+                android:layout_width="wrap_content"
+                android:layout_height="25sp"
+                android:gravity="center_vertical"
+                android:text="用户:  "
+                android:textSize="10sp"/>
+            <TextView
+                android:id="@+id/commentFrom"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="小小怪下士"
+                android:textSize="10sp"
+                android:textColor="@color/text_main"/>
+            <TextView
+                android:id="@+id/commodityAt"
+                android:paddingStart="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="2022-09-22 22:18"
+                android:textSize="10sp"
+                android:gravity="center_vertical"
+                android:textColor="@color/text_main1"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/commentDetail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="非常好的一次交易，赞！还很耐心的教我如何使用这个台灯。"
+                android:textSize="15sp"
+                android:layout_marginStart="10sp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_marginStart="10sp"
+        android:layout_marginEnd="10sp"
+        android:layout_width="match_parent"
+        android:layout_height="0.5sp"
+        android:background="@color/text_main1"/>
+
+</LinearLayout>

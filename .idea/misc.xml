@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/drawable-v24/btn_style_1.xml" value="0.1925" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/drawable/btn_style.xml" value="0.191" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/drawable/btn_style_2.xml" value="0.2355" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/drawable/layout_btn_style.xml" value="0.191" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/activity_commodiet_detail.xml" value="0.264" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/activity_commodity_detail2.xml" value="0.264" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/activity_commodity_list.xml" value="0.152" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/activity_commodity_list2.xml" value="0.264" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/activity_commodity_release.xml" value="0.4" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/activity_demo01.xml" value="0.1828125" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/activity_information_change.xml" value="0.21666666666666667" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/activity_main.xml" value="0.2390625" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/activity_main111.xml" value="0.2" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/activity_my_commdity.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/activity_personal_homepage.xml" value="0.264" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/activity_production_team.xml" value="0.20208333333333334" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/activity_register.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/activity_shop_item.xml" value="0.4" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/activity_shopinfo.xml" value="0.264" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/commentstyle.xml" value="0.3847980997624703" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/commoditydetailstyle.xml" value="0.2390625" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/commoditystyleforlist.xml" value="0.264" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/mycommoditystyle.xml" value="0.4" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/layout/test1.xml" value="0.19623770842240273" />
+        <entry key="..\:/Andorid Project/MyApplication3/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

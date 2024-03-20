@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_myCommodityStyle"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="10sp"
+    android:background="@color/white">
+
+    <ImageView
+        android:id="@+id/iv_CommodityPictureList"
+        android:layout_width="80sp"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"/>
+
+    <LinearLayout
+        android:layout_width="250sp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_commodityInfoList"
+            android:layout_width="200sp"
+            android:layout_height="0sp"
+            android:layout_weight="2"
+            android:layout_marginStart="5sp"
+            android:textColor="@color/text_main"
+            android:maxLines="2"
+            android:maxEms="9"
+            android:ellipsize="end"/>
+
+        <TextView
+            android:id="@+id/commodityId"
+            android:layout_width="1sp"
+            android:layout_height="1sp"
+            android:visibility="invisible"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0sp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:layout_marginStart="5sp"
+                android:text="@string/commodityFrom"
+                android:textColor="@color/text_main1"
+                android:textSize="8sp"/>
+
+            <TextView
+                android:id="@+id/tv_commodityFromList"
+                android:layout_width="100sp"
+                android:layout_height="match_parent"
+                android:paddingStart="4sp"
+                android:gravity="center_vertical"
+                android:textColor="@color/text_main1"
+                android:textSize="8sp"/>
+
+            <TextView
+                android:id="@+id/maijia_address"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:textSize="8sp"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_commodityPriceList"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:paddingStart="10sp"
+        android:textColor="@color/text_main"
+        android:gravity="center_vertical" />
+
+
+
+</LinearLayout>

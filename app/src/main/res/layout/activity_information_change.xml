@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!--    tools:context根据实际情况设置-->
+
+    <EditText
+        android:id="@+id/new_yonghuming"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:inputType="text"
+        android:hint="@string/Account_number_new"/>
+
+    <Button
+        android:id="@+id/new_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/change"
+        android:textColor="@android:color/white"
+        android:layout_marginHorizontal="16dp"/>
+
+
+</LinearLayout>

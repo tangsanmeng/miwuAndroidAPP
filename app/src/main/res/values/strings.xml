@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">觅物</string>
+    <string name="Account_number">请输入账号</string>
+    <string name="Account_number_new">请输入新的用户名</string>
+    <string name="Password">请输入密码</string>
+    <string name="pwd">密码</string>
+    <string name="AcNumber">账号</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="phone">请输入手机号</string>
+    <string name="login_exit">退出登录</string>
+    <string name="ID">用户名</string>
+    <string name="change">确认修改</string>
+    <string name="goback">返回</string>
+    <string name="myCommodity">我发布的物品</string>
+    <string name="commodityFrom">来自用户:</string>
+    <string name="commodityfrom">用户:</string>
+    <string name="shuaxin">刷新</string>
+</resources>
